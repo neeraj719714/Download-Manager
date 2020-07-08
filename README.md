@@ -1,2 +1,2 @@
 # Download-Manager-
-Download manger
+Download manger (currently will support HTTP only)
